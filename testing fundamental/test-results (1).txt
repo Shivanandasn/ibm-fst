@@ -1,0 +1,30 @@
+Constraints Warning: Restrictive constraints. Output will not contain following values: 
+  Availability: Not available
+Constraints Warning: All or no values satisfy relation [Price] >= 4000
+flights	Price	Stop	class	Availability
+Vistara	8000	No stop	First	available
+Air India	4000	single stop	First	available
+Indigo	4000	double stop	Economy	available
+Vistara	4000	No stop	Business	available
+Vistara	20000	single stop	Economy	available
+Air India	15000	No stop	Economy	available
+Air India	8000	double stop	Business	available
+Vistara	100000	double stop	First	available
+Indigo	120000	No stop	Economy	available
+Indigo	100000	single stop	Economy	available
+Indigo	8000	single stop	Economy	available
+Vistara	15000	single stop	Business	available
+Vistara	120000	single stop	First	available
+Air India	120000	double stop	Premium	available
+Air India	100000	No stop	Premium	available
+Air India	100000	single stop	Business	available
+Vistara	8000	single stop	Premium	available
+Air India	15000	double stop	Premium	available
+Air India	20000	double stop	Business	available
+Air India	20000	No stop	First	available
+Air India	15000	single stop	First	available
+Vistara	20000	single stop	Premium	available
+Indigo	20000	No stop	Economy	available
+Air India	120000	double stop	Business	available
+Air India	4000	No stop	Premium	available
+Indigo	15000	double stop	Economy	available
