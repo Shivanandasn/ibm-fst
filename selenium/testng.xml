@@ -1,0 +1,37 @@
+<!--<?xml version="1.0" encoding="UTF-8"?>-->
+<!--<suite name="ExampleSuite" >-->
+<!--    <test name="SuiteTests" >-->
+<!--        <parameter name="sUsername" value="admin"/>-->
+<!--        <parameter name="sPassword" value="password"/>-->
+
+<!--        <classes>-->
+
+<!--            <class name="testnga8"/>-->
+
+<!--        </classes>-->
+<!--        <groups>-->
+
+
+<!--        </groups>-->
+<!--    </test>-->
+
+
+<!--</suite>-->
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="TestSuite" parallel="classes">
+    <test thread-count="2" name="Tests">
+
+        <parameter name="sUsername" value="admin"/>
+               <parameter name="sPassword" value="password"/>
+        <classes>
+            <class name="testnga1"/>
+            <class name="testnga2"/>
+            <class name="testnga3"/>
+            <class name="testnga4"/>
+            <class name="testnga5"/>
+            <class name="testng6"/>
+            <class name="testnga7"/>
+            <class name="testnga8"/>
+        </classes>
+    </test>
+</suite>

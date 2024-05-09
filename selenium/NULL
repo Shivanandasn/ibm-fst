@@ -1,0 +1,24 @@
+1714711874098	geckodriver	INFO	Listening on 127.0.0.1:25694
+1714711874576	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "17061" "--remote ... alhost:17061/,http://[::1]:17061/" "-no-remote" "-profile" "C:\\Users\\SHIVAN~1\\AppData\\Local\\Temp\\rust_mozprofileDIZ4mH"
+console.error: Enterprise Policies: 
+  Unknown policy: FlashPlugin
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1714711875144	Marionette	INFO	Marionette enabled
+1714711875292	Marionette	INFO	Listening on port 62626
+WebDriver BiDi listening on ws://127.0.0.1:17061
+Read port: 62626
+1714711875533	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:17061/devtools/browser/3d77c0ee-3eb0-4b06-89a5-631d08055ae7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://v1.training-support.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://v1.training-support.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://v1.training-support.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://v1.training-support.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://v1.training-support.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://v1.training-support.net."
+1714711885897	RemoteAgent	INFO	Perform WebSocket upgrade for incoming connection from 127.0.0.1:62700
+1714711885902	CDP	WARN	Support for the Chrome DevTools Protocol (CDP) in Firefox will be deprecated after Firefox 128 (ESR) and will be removed in a later release. CDP users should consider migrating to WebDriver BiDi. See https://bugzilla.mozilla.org/show_bug.cgi?id=1872254
+1714711885902	CDP	WARN	Invalid browser preferences for CDP. Set "fission.webContentIsolationStrategy"to 0 and "fission.bfcacheInParent" to false before Firefox starts.
+1714711886039	Marionette	INFO	Stopped listening on port 62626
+Dynamically enable window occlusion 1
